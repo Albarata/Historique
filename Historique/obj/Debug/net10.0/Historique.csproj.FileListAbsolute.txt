@@ -1,0 +1,14 @@
+C:\dev\c# academy\Exercices\Historique\Historique\bin\Debug\net10.0\Historique.exe
+C:\dev\c# academy\Exercices\Historique\Historique\bin\Debug\net10.0\Historique.deps.json
+C:\dev\c# academy\Exercices\Historique\Historique\bin\Debug\net10.0\Historique.runtimeconfig.json
+C:\dev\c# academy\Exercices\Historique\Historique\bin\Debug\net10.0\Historique.dll
+C:\dev\c# academy\Exercices\Historique\Historique\bin\Debug\net10.0\Historique.pdb
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\Historique.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\Historique.AssemblyInfoInputs.cache
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\Historique.AssemblyInfo.cs
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\Historique.csproj.CoreCompileInputs.cache
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\Historique.dll
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\refint\Historique.dll
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\Historique.pdb
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\Historique.genruntimeconfig.cache
+C:\dev\c# academy\Exercices\Historique\Historique\obj\Debug\net10.0\ref\Historique.dll
