@@ -8,13 +8,13 @@ Utilisation:
 - Toute autre saisie arrête le programme
 
 Exemple de saisie:
-1
-step1
-description1
-1
-step2
-description2
-2
-\n
+- 1
+- step1
+- description1
+- 1
+- step2
+- description2
+- 2
+- \n
 
 Scénario permettant de faire deux màj (setp1 et step2) puis afficher l'historique, avant de fermer.
